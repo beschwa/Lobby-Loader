@@ -1,15 +1,24 @@
-# README
+![Lobby Loader Green on White](https://user-images.githubusercontent.com/9085279/136635973-93c2702f-6f7a-47e7-b06c-0ffcbcd00152.png)
+# Lobby Loader
+An advanced game lobby app where users can create the age-old 'game lobby' for games they love and meet new players!
 
-Lobby Loader
-MVP
-An advanced game lobby app; a user registers and tells the system what games they own. 
-Once a user is registered they can login and create a new party. 
-Other users can then join the party and send messages to the party.
-A party will have an upper limit of members, once that is reached a notification will be sent to all members of the party to tell them to commence the game.
-The creator of the party will be able to add / remove members. 
-A user with the same game can add themselves to the party. 
+## Technologies
+Front End
+	- React.js
+	- React-Redux
+	- Semantic UI
+	
+Back End
+	- Rails
+	- Active Record
+	- PostgreSQL
 
-Stretch Goals
+Other
+  - JWT Tokens for Auth
+  - IGDB API for populating games
+
+
+### TBD Features
 Add recommendations based on game genres. 
 Allow users to rate their games and the highest rated game appears on the top games section.
 Allow users to rate other users and highest rated player appears on top players section, some guidelines will be included for what makes a player worthy of a vote.
