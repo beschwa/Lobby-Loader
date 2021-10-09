@@ -17,6 +17,8 @@ Other
   - JWT Tokens for Auth
   - IGDB API for populating games
 
+## Backend design
+![Blank Diagram (1)](https://user-images.githubusercontent.com/9085279/136636377-1bb88c21-bca3-416c-bee5-211ecc68cbc7.png)
 
 ### TBD Features
 Add recommendations based on game genres. 
